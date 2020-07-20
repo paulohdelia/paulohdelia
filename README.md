@@ -13,7 +13,7 @@
 
 ### More details about me
 
-[![Sourcerer](https://img.shields.io/badge/Sourcerer-Perfil-important)](https://sourcerer.io/paulohdelia)
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-important)](https://sourcerer.io/paulohdelia)
 
 💻 Front End Developer | Focused on ReactJS and NodeJS<br>
 📚 Graduating in Information Systems<br>

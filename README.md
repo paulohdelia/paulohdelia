@@ -15,7 +15,7 @@
 
 [![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-important)](https://sourcerer.io/paulohdelia)
 
-💻 Front End Developer | Focused on ReactJS and NodeJS<br>
+💻 Front End Developer
 📚 Graduating in Information Systems<br>
 
 Thanks for your visit!

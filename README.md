@@ -1,6 +1,6 @@
 ### Hi! I'm Paulo 👋
 
-💻 FrontEnd Developer | 🏡 São Paulo 🌎 Brazil
+💻 FullStack Developer | 🏡 São Paulo 🌎 Brazil
 
 ### Find me here 🌎💬
 
